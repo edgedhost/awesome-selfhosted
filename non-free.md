@@ -6,7 +6,6 @@
 
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
-
 ## Content Management Systems (CMS)
 
 - [CraftCMS](https://craftcms.com/) `⊘ Proprietary` - Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `PHP`
@@ -46,6 +45,9 @@
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CCBYNCv4` `HTML5`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
+
+## Invoicing
+- [FusionInvoice](https://fusioninvoice.com) - `⊘ Proprietary` - A self hosted invoicing and simple CRM system for freelancers and small businesses. `PHP` 
 
 ## IPBX
 
